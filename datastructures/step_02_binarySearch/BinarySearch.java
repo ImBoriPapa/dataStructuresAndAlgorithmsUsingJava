@@ -1,4 +1,4 @@
-package datastructures.linearSearch;
+package datastructures.binarySearch;
 
 import java.util.stream.IntStream;
 
